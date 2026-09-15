@@ -1,6 +1,6 @@
 ## Hi, I'm Chanleng👋
 
-- 🔭 Third-year IT student at Royal University of Laws and Economics (RULE)
+- 🔭 IT Student at Royal University of Laws and Economics (RULE) — Completed Year 3
 - 💻 Aspiring Web Developer | Learning Full-Stack Development
 - 🚀I'm building practical projects to improve my development skills and understand the complete workflow of web applications — from frontend UI and API integration to backend logic and databases.
 
